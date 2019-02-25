@@ -1,3 +1,5 @@
 <?php 
-    echo 'Olá Mundo!!'
+    echo 'Teste de Conflito'
+
+    echo 'Estou trabalhando nesse arquivo'
 ?>
